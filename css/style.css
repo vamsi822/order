@@ -216,7 +216,7 @@ section{
     line-height: 1.7;
 }
 .cta{
-    background: blue;
+    background: #d06705;
     padding: 70px 0;
     text-align: center;
     width: 66%;
@@ -252,7 +252,7 @@ section{
     margin-bottom: 15px;
 }
 .col ul li a{
-    color:#feeee7;
+    color: #9897a9;
     font-size: 1.1rem;
     display: block;
     text-transform: capitalize;
