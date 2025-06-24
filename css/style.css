@@ -282,7 +282,7 @@ section{
 }
 .col .Social a:hover{
     transform: scale(1.2);
-    color: var(--big-font);
+    color: var(--bg-color);
     background: var(--text-color);
 } 
 @media (max-width: 1560px){
